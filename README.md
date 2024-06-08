@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi, There 👋🏻&fontColor=FFFFFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi,There%20👋🏻&fontColor=FFFFFF" alt="header" />
 
 # Introduction
 
