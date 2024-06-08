@@ -31,6 +31,5 @@ Hi, I'm Web Programmer !
   <a href="https://velog.io/@ehs208"><img src="https://velog-readme-stats.vercel.app/api?name=ehs208"/></a>
   </br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehs208&count_bg=%2321336E&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23FFFFFF&title=github&edge_flat=false"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40ehs208&count_bg=%2321336E&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23FFFFFF&title=velog&edge_flat=false"/></a>
 
 </div>
