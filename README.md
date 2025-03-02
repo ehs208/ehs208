@@ -4,8 +4,7 @@
 ## 🎓 Education & Experience
 - Gachon University (2019.03 ~ 2025.02)
 - [Leets](https://www.leets.land/) (2024.09 ~ 2025.02)
-- Groomthon Deepdive (2025.02 ~)
-
+  
 ## 🛠 Tech Stack
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
