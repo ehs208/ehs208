@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-> Backend Developer with interest in Frontend Development
+> Backend Developer ~~with interest in Frontend Development~~
 
 ## 🎓 Education & Experience
 - Gachon University (2019.03 ~ 2025.02)
