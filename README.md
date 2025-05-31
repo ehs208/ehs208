@@ -39,6 +39,9 @@
 - [GachonOJ](https://github.com/ehs208/GachonOJ-Frontend) - Frontend (2024.03 ~ 2024.05)
   > Online Judge System for Gachon University
 
+## 👥 Contribution
+- [Gradle](https://github.com/gradle/gradle/pull/33676#event-17890533394)
+
 ## 🏆 Certificates
 - SQLD by Korea Data Agency (2024.12)
 - TOEIC Speaking IM High (Score 140, 2024.10)
