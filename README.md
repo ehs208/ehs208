@@ -39,8 +39,15 @@
 - [GachonOJ](https://github.com/ehs208/GachonOJ-Frontend) - Frontend (2024.03 ~ 2024.05)
   > Online Judge System for Gachon University
 
-## 👥 Contribution
-- [Gradle](https://github.com/gradle/gradle/pull/33676#event-17890533394)
+## 👥 Open Source
+### Contribution
+- [[PR] Gradle](https://github.com/gradle/gradle/pull/34326)
+- [[PR] Gradle](https://github.com/gradle/gradle/pull/33676)
+- [[Issue] Gradle](https://github.com/gradle/gradle/issues/34328)
+
+### Plugins
+
+[![CodeMetrics With Kotlin](https://img.shields.io/jetbrains/plugin/v/28221.svg)](https://plugins.jetbrains.com/plugin/28221)
 
 ## 🏆 Certificates
 - SQLD by Korea Data Agency (2024.12)
