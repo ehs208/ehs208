@@ -40,14 +40,20 @@
   > Online Judge System for Gachon University
 
 ## 👥 Open Source
-### Contribution
-- [[PR] Gradle](https://github.com/gradle/gradle/pull/34326)
-- [[PR] Gradle](https://github.com/gradle/gradle/pull/33676)
-- [[Issue] Gradle](https://github.com/gradle/gradle/issues/34328)
+
+### OpenJDK Contributions
+- **[[Merged] Improve HttpClient NPE messages](https://github.com/openjdk/jdk/pull/28103)** - Enhanced error messages for better developer experience
+- **[[Merged] Fix HttpClient javadoc example](https://github.com/openjdk/jdk/pull/28084)** - Fixed missing variable declaration in documentation
+
+### Gradle Contributions  
+- **[[Merged] Improve Finalizer tasks documentation](https://github.com/gradle/gradle/pull/34326)** - Enhanced docs structure for better readability
+- **[[Merged] Fix Module Metadata specification](https://github.com/gradle/gradle/pull/33676)** - Added integer type support in attribute specification
+- **[[Open] CODEOWNERS workflow improvement](https://github.com/gradle/gradle/issues/34328)** - Proposed fix for fork PR CI/CD failures
 
 ### Plugins
-
-[![CodeMetrics With Kotlin](https://img.shields.io/jetbrains/plugin/v/28221.svg)](https://plugins.jetbrains.com/plugin/28221)
+[![CodeMetrics With Kotlin](https://img.shields.io/jetbrains/plugin/v/28221.svg)](https://plugins.jetbrains.com/plugin/28221-codemetrics-with-kotlin)
+- **Real-time code complexity analysis** for Java/Kotlin with color-coded inline hints
+- **Full K2 compiler support** with Kotlin-specific optimizations
 
 ## 🏆 Certificates
 - SQLD by Korea Data Agency (2024.12)
