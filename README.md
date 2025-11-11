@@ -48,7 +48,7 @@
 ### Gradle Contributions  
 - **[[Merged] Improve Finalizer tasks documentation](https://github.com/gradle/gradle/pull/34326)** - Enhanced docs structure for better readability
 - **[[Merged] Fix Module Metadata specification](https://github.com/gradle/gradle/pull/33676)** - Added integer type support in attribute specification
-- **[[Open] CODEOWNERS workflow improvement](https://github.com/gradle/gradle/issues/34328)** - Proposed fix for fork PR CI/CD failures
+- **[[Closed] CODEOWNERS workflow improvement](https://github.com/gradle/gradle/issues/34328)** - Proposed fix for fork PR CI/CD failures
 
 ### Plugins
 [![CodeMetrics With Kotlin](https://img.shields.io/jetbrains/plugin/v/28221.svg)](https://plugins.jetbrains.com/plugin/28221-codemetrics-with-kotlin)
