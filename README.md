@@ -56,23 +56,6 @@ I currently have **106 merged PRs** across community, team, and open repositorie
 - **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
 - **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
 
-### Full Merged PR Inventory
-
-- **gcu-LastDance/GachonOJ-Frontend** — 40 merged PRs: #7, #11, #15, #19, #26, #32, #34, #36, #40, #64, #68, #73, #85, #87, #90, #92, #104, #106, #108, #109, #112, #120, #126, #128, #130, #131, #134, #138, #142, #148, #153, #156, #159, #163, #167, #169, #172, #175, #176, #180
-- **Leets-Official/EatMate-BE** — 15 merged PRs: #5, #10, #25, #27, #35, #69, #75, #81, #84, #100, #127, #148, #156, #170, #179
-- **hiphadi-finn/menu-BE** — 12 merged PRs: #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13
-- **Leets-Official/Xcellent-BE** — 10 merged PRs: #2, #8, #10, #12, #14, #19, #24, #26, #30, #32
-- **Gachon-CS-Study/CS-Study** — 9 merged PRs: #12, #26, #38, #52, #64, #77, #85, #100, #113
-- **arinspunk/claude-talk-to-figma-mcp** — 6 merged PRs: #47, #52, #54, #56, #57, #61
-- **teamrhizome/rhizome-web** — 3 merged PRs: #4, #8, #14
-- **Leets-Official/Xcellent-FE** — 2 merged PRs: #27, #29
-- **gradle/gradle** — 2 merged PRs: #33676, #34326
-- **koala73/worldmonitor** — 2 merged PRs: #794, #912
-- **teamrhizome/rhizome-server** — 2 merged PRs: #4, #13
-- **Yeachan-Heo/oh-my-claudecode** — 1 merged PR: #1830
-- **is-a-dev/register** — 1 merged PR: #35019
-- **ehs208/springboot-chatting-practice** — 1 merged PR: #1
-
 </details>
 
 ## Background
