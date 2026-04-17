@@ -35,7 +35,7 @@ TypeScript, React, Next.js, and Tailwind CSS — useful for shipping product wor
 
 ## Open Source & Community Contributions
 
-I currently have **106 merged PRs** across community, team, and open repositories, plus upstream contributions to projects like Gradle and OpenJDK.
+I actively contribute across community, team, and open repositories, with upstream contributions to projects like Gradle and OpenJDK.
 
 ### Most Important Upstream Contributions
 
