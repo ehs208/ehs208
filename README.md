@@ -37,9 +37,6 @@ TypeScript, React, Next.js, and Tailwind CSS — useful for shipping product wor
 
 I currently have **106 merged PRs** across community, team, and open repositories, plus upstream contributions to projects like Gradle and OpenJDK.
 
-<details>
-<summary>Expand contribution details</summary>
-
 ### Most Important Upstream Contributions
 
 - **[Gradle #33676](https://github.com/gradle/gradle/pull/33676)** — Fixed module metadata specification behavior by allowing integer attribute values
@@ -55,6 +52,15 @@ I currently have **106 merged PRs** across community, team, and open repositorie
 - **[claude-talk-to-figma-mcp #52](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/52)** — Added post-join verification to prevent false connection success
 - **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
 - **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
+
+<details>
+<summary>More open-source contributions</summary>
+
+- **[claude-talk-to-figma-mcp #54](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/54)** — Additional open-source contribution
+- **[claude-talk-to-figma-mcp #56](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/56)** — Additional open-source contribution
+- **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
+- **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
+- **[is-a-dev/register #35019](https://github.com/is-a-dev/register/pull/35019)** — Added contribution to the is-a-dev registry
 
 </details>
 
