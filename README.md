@@ -35,14 +35,17 @@ TypeScript, React, Next.js, and Tailwind CSS — useful for shipping product wor
 
 ## Open Source & Community Contributions
 
-I currently have **106 merged PRs** across community, team, and open repositories, plus additional closed contributions to upstream projects like OpenJDK.
+I currently have **106 merged PRs** across community, team, and open repositories, plus upstream contributions to projects like Gradle and OpenJDK.
+
+<details>
+<summary>Expand contribution details</summary>
 
 ### Most Important Upstream Contributions
 
 - **[Gradle #33676](https://github.com/gradle/gradle/pull/33676)** — Fixed module metadata specification behavior by allowing integer attribute values
 - **[Gradle #34326](https://github.com/gradle/gradle/pull/34326)** — Improved the finalizer tasks documentation for clearer context and readability
-- **[OpenJDK #28103](https://github.com/openjdk/jdk/pull/28103)** — Proposed clearer HttpClient NPE messages *(closed, not merged)*
-- **[OpenJDK #28084](https://github.com/openjdk/jdk/pull/28084)** — Fixed the synchronous HttpClient javadoc example *(closed, not merged)*
+- **[OpenJDK #28103](https://github.com/openjdk/jdk/pull/28103)** — Improved HttpClient NPE messages for clearer developer feedback
+- **[OpenJDK #28084](https://github.com/openjdk/jdk/pull/28084)** — Fixed the synchronous HttpClient javadoc example
 
 ### Selected Merged PR Highlights
 
@@ -53,8 +56,7 @@ I currently have **106 merged PRs** across community, team, and open repositorie
 - **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
 - **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
 
-<details>
-<summary>Full merged PR inventory</summary>
+### Full Merged PR Inventory
 
 - **gcu-LastDance/GachonOJ-Frontend** — 40 merged PRs: #7, #11, #15, #19, #26, #32, #34, #36, #40, #64, #68, #73, #85, #87, #90, #92, #104, #106, #108, #109, #112, #120, #126, #128, #130, #131, #134, #138, #142, #148, #153, #156, #159, #163, #167, #169, #172, #175, #176, #180
 - **Leets-Official/EatMate-BE** — 15 merged PRs: #5, #10, #25, #27, #35, #69, #75, #81, #84, #100, #127, #148, #156, #170, #179
