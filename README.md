@@ -1,69 +1,54 @@
-# 👨‍💻 About Me
-> Backend Developer ~~with interest in Frontend Development~~
-
-## 🎓 Education & Experience
-- Gachon University (2019.03 ~ 2025.02)
-- [Leets](https://www.leets.land/) (2024.09 ~ 2025.02)
-  
-## 🛠 Tech Stack
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-4479A1?style=flat&logo=query&logoColor=white)
-
-### Infrastructure
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-FF9900?style=flat&logo=amazonroute53&logoColor=white)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-
-### Collaboration
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
-## 📚 Projects
-- [EatMate](https://github.com/ehs208/EatMate-BE) - Backend Lead & PO (2024.12 ~ 2025.02)
-  > Food Mate Matching Service
-- [Hiphadi](https://github.com/ehs208/hiphadi-BE) - Full Stack (2024.11 ~)
-  > Online Menu Service
-- [GachonOJ](https://github.com/ehs208/GachonOJ-Frontend) - Frontend (2024.03 ~ 2024.05)
-  > Online Judge System for Gachon University
-
-## 👥 Open Source
-
-### OpenJDK Contributions
-- **[[Merged] Improve HttpClient NPE messages](https://github.com/openjdk/jdk/pull/28103)** - Enhanced error messages for better developer experience
-- **[[Merged] Fix HttpClient javadoc example](https://github.com/openjdk/jdk/pull/28084)** - Fixed missing variable declaration in documentation
-
-### Gradle Contributions  
-- **[[Merged] Improve Finalizer tasks documentation](https://github.com/gradle/gradle/pull/34326)** - Enhanced docs structure for better readability
-- **[[Merged] Fix Module Metadata specification](https://github.com/gradle/gradle/pull/33676)** - Added integer type support in attribute specification
-- **[[Closed] CODEOWNERS workflow improvement](https://github.com/gradle/gradle/issues/34328)** - Proposed fix for fork PR CI/CD failures
-
-### Plugins
-[![CodeMetrics With Kotlin](https://img.shields.io/jetbrains/plugin/v/28221.svg)](https://plugins.jetbrains.com/plugin/28221-codemetrics-with-kotlin)
-- **Real-time code complexity analysis** for Java/Kotlin with color-coded inline hints
-- **Full K2 compiler support** with Kotlin-specific optimizations
-
-## 🏆 Certificates
-- SQLD by Korea Data Agency (2024.12)
-- TOEIC Speaking IM High (Score 140, 2024.10)
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehs208&count_private=true&theme=synthwave&show_icons=true" alt="ehs208's GitHub stats" />
-  <br/>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehs208&count_bg=%2321336E&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23FFFFFF&title=github&edge_flat=false"/>
-  </a>
+
+# EunHyunsu
+
+Backend-first engineer interested in dependable systems, developer tooling, and open-source contributions that solve real problems.
+
+I care about maintainable APIs, reliable delivery, and workflows that make developers more productive.
+
 </div>
+
+## At a Glance
+
+- Based in Seoul, KR
+- Focused on backend engineering, developer experience, and open-source contribution
+- Comfortable shipping across the stack when needed, but my core focus is backend
+
+## Core Stack
+
+**Backend & infrastructure**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,aws,nginx,git,github&perline=10" alt="Backend and infrastructure stack" />
+</p>
+
+**Hands-on frontend experience**
+
+TypeScript, React, Next.js, and Tailwind CSS — useful for shipping product work, but not my main positioning.
+
+## Selected Work
+
+- **[EatMate](https://github.com/ehs208/EatMate-BE)** — Backend Lead & Product Owner for a food mate matching service
+- **[Hiphadi](https://github.com/ehs208/hiphadi-BE)** — Full-stack contributor on an online menu service
+- **[GachonOJ](https://github.com/ehs208/GachonOJ-Frontend)** — Frontend contributor for an online judge system at Gachon University
+- **[CodeMetrics With Kotlin](https://plugins.jetbrains.com/plugin/28221-codemetrics-with-kotlin)** — JetBrains plugin for real-time Java/Kotlin code complexity analysis with K2 support
+
+## Open Source Highlights
+
+### Developer Tooling & Reliability
+
+- **[oh-my-claudecode #1830](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/1830)** — Fixed a cancel-flow infinite loop when deferred state cleanup is active
+- **[claude-talk-to-figma-mcp #61](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/61)** — Added image tools and fixed a critical error-handling timeout
+- **[claude-talk-to-figma-mcp #57](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/57)** — Fixed a coordinate-system mismatch by exposing both global and local node positions
+- **[claude-talk-to-figma-mcp #52](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/52)** — Added post-join verification to prevent false connection success
+
+### Product & Mapping
+
+- **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
+- **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
+
+## Background
+
+- **Gachon University** — 2019.03 to 2025.02
+- **[Leets](https://www.leets.land/)** — 2024.09 to 2025.02
+
