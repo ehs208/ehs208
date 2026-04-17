@@ -19,7 +19,7 @@ I care about maintainable APIs, reliable delivery, and workflows that make devel
 **Backend & infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,aws,nginx,git,github&perline=9" alt="Backend and infrastructure stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,aws,nginx,git,github&perline=8" alt="Backend and infrastructure stack" />
 </p>
 
 **Hands-on frontend experience**
@@ -58,8 +58,6 @@ I currently have **106 merged PRs** across community, team, and open repositorie
 
 - **[claude-talk-to-figma-mcp #54](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/54)** — Additional open-source contribution
 - **[claude-talk-to-figma-mcp #56](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/56)** — Additional open-source contribution
-- **[worldmonitor #912](https://github.com/koala73/worldmonitor/pull/912)** — Added a Korean DMZ geopolitical boundary layer with interactive map details
-- **[worldmonitor #794](https://github.com/koala73/worldmonitor/pull/794)** — Improved i18n, memoization, and locale-safe formatting
 - **[is-a-dev/register #35019](https://github.com/is-a-dev/register/pull/35019)** — Added contribution to the is-a-dev registry
 
 </details>
