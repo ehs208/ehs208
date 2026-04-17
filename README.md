@@ -58,7 +58,6 @@ I actively contribute across community, team, and open repositories, with upstre
 
 - **[claude-talk-to-figma-mcp #54](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/54)** — Additional open-source contribution
 - **[claude-talk-to-figma-mcp #56](https://github.com/arinspunk/claude-talk-to-figma-mcp/pull/56)** — Additional open-source contribution
-- **[is-a-dev/register #35019](https://github.com/is-a-dev/register/pull/35019)** — Added contribution to the is-a-dev registry
 
 </details>
 
